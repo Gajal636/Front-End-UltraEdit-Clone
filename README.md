@@ -1,6 +1,6 @@
 # Front-End UltraEdit Clone
 This is an UI / Front-end clone of UltraEdit.
-A frontend clone of the popular text editor UltraEdit, built using modern web technologies. This project replicates the look, feel, and core behavior of UltraEdit using HTML, CSS,  — right in the browser.
+A frontend clone of the popular text editor UltraEdit, built using modern web technologies. This project replicates the look, feel, and core behavior of UltraEdit using HTML, CSS  — right in the browser.
 
 ✅ Perfect for UI/UX practice
 ✅ No frameworks or JavaScript required
